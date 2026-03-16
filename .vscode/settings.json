@@ -1,0 +1,7 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "ruff.interpreter": ["${workspaceFolder}/.venv/bin/python"]
+}
